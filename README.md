@@ -1,27 +1,18 @@
-# GAME SELECTOR
+# GameSelector
 
-----------------------------------------------------------------------------------------------------------
-thanks to this plugin you can add a creature to the crate. clicking that opens the chest of the creature and living things. My goal: to be able to look the outdoor games by adding it within the objects commands to it from here. Like MinePlex
+This plugin allows you to add a creature to a crate. Clicking on that opens the chest of the creature.
 
-Sorry, bad english :D
+This plugin only supports **[pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**.
 
-Commands:
+## Commands
 - /gs add
 - /gs additem
 - /gs removeitem
-- /gs setcommand (not work now)
+- /gs setcommand (currently doesn't work)
 - /gs setname
 
-Bugs?
-Please report bugs!
+## Bugs
+If there are any bugs, report them in the **[Issues](https://github.com/BlockNetworks/GameSelector/issues)** section.
 
-Version 0.2[dev]
-features:
-- fixed line 50 error ($args[0])
-
-More minigame, that can be used in the field of!
------------------------------------------------------------------------------------------------------------ 
-
-# Phar file?
-
-Phar file on ImagicalMine website: https://forums.imagicalmine.net/plugins/gameselector.279/
+## Installation
+Download the latest build from [GitHub](https://github.com/BlockNetworks/GameSelector/releases).
