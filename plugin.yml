@@ -6,6 +6,5 @@ api: 1.13.1
 author: EmreTr1
 description: GameSelector 
 commands:
- gs:
-   description: GameSelector
-   
+  gs:
+    description: GameSelector
